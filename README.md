@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emandleni
 - 👀 I’m interested in machine learning, data mining 
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Dart, Apex
 - 💞️ I’m looking to collaborate on anything meaningful
 - 📫 How to reach me: write me a mail/ tweet me
 
