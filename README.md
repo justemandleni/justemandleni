@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emandleni
+<!--- - 👋 Hi, I’m Emandleni
 - 👀 I’m interested in machine learning, data mining 
 - 🌱 I’m currently learning Dart, Apex
 - 💞️ I’m looking to collaborate on anything meaningful
