@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working at [Tetrad IT](https://www.tetrad.co.za/home)
 
-- 🌱 I’m currently learning **Flutter, Apex**
+- 🌱 I’m currently learning **Flutter, Salesforce**
 
 - 👯 I’m looking to collaborate with **developers/ designers/ creators/ engineers/ entrepreneurs**
 
