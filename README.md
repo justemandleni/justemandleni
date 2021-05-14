@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 ### Connect with me:
 
 <a href="https://twitter.com/justemandleni" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="justemandleni" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/justemandleni" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="justemandleni" height="22" width="22" /></a>
+<a href="https://www.linkedin.com/in/emandleni-moyo-994240201/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="justemandleni" height="22" width="22" /></a>
 
 
 <br />
