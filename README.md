@@ -1,10 +1,31 @@
+### hi, my name is
+# emandleni
+#### i'm specializing in java, c#, asp.net, apex, dart, SQL, PL/SQL and JavaScript.
+#### currently, working as an associate developer at Tetrad IT in johannesburg, south africa.
 
-<!---  👋 Hi, I’m Emandleni
-- 👀 I’m interested in machine learning, data mining 
-- 🌱 I’m currently learning Dart, Apex
-- 💞️ I’m looking to collaborate on anything meaningful
-- 📫 How to reach me: write me a mail/ tweet me
+### here's more about me...
 
-justemandleni/justemandleni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```javascript
+  const emandleni_ = {
+    pronouns: "He" | "Him",
+    title: "Software Developer",
+    technologies: {
+        backend: {
+            ["ASP.NET Core", "C#", "Entity Framework", "Java", "Apex", "Dart"]
+        },
+        frontend: {
+            ["TypeScript", "JavaScript", "HTML5", "CSS3", "Bootstrap", 
+             "Material UI"]
+        },
+        databaseTools: {
+            ["Microsoft SQL Server", "SQLite", "MySQL", "MongoDB"]
+        },
+        versionControlTools:{
+            ["Git", "GitHub", "Github Desktop", "BitBucket"]
+        }
+    }
+  }    
+```
+##
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=justemandleni&show_icons=true&theme=dark)](https://github.com/justemandleni/github-readme-stats)
