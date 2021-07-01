@@ -1,9 +1,9 @@
 ### hi, my name is
 # emandleni
-#### i'm specializing in java, c#, asp.net, apex, dart, sql, pl/sql and javascript.
-#### currently, working as an associate developer at tetrad IT in johannesburg, south africa.
+<!--#### i'm specializing in java, c#, asp.net, apex, dart, sql, pl/sql and javascript.
+#### currently, working as an associate developer at tetrad IT in johannesburg, south africa.-->
 
-### here's more about me...
+### here's a bit about me...
 
 ```javascript
   const just_emandleni = {
