@@ -1,14 +1,14 @@
 ### hi, my name is
 # emandleni
-#### i'm specializing in java, c#, asp.net, apex, dart, SQL, PL/SQL and JavaScript.
-#### currently, working as an associate developer at Tetrad IT in johannesburg, south africa.
+#### i'm specializing in java, c#, asp.net, apex, dart, sql, pl/sql and javascript.
+#### currently, working as an associate developer at tetrad IT in johannesburg, south africa.
 
 ### here's more about me...
 
 ```javascript
-  const emandleni_ = {
-    pronouns: "He" | "Him",
-    title: "Software Developer",
+  const just_emandleni = {
+    pronouns: "he" | "him",
+    title: "software developer",
     technologies: {
         backend: {
             ["ASP.NET Core", "C#", "Entity Framework", "Java", "Apex", "Dart"]
