@@ -3,10 +3,10 @@
 <!--#### i'm specializing in java, c#, asp.net, apex, dart, sql, pl/sql and javascript.
 #### currently, working as an associate developer at tetrad IT in johannesburg, south africa.-->
 
-### here's a bit about me...
+<!--### here's a bit about me...-->
 
 ```javascript
-  const just_emandleni = {
+  const about_me = {
     pronouns: "he" | "him",
     title: "software developer",
     technologies: {
