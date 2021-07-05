@@ -11,11 +11,10 @@
     title: "software developer",
     technologies: {
         backend: {
-            ["ASP.NET Core", "C#", "Entity Framework", "Java", "Apex", "Dart"]
+            ["C#", "Java", "Apex", "Dart"]
         },
         frontend: {
-            ["TypeScript", "JavaScript", "HTML5", "CSS3", "Bootstrap", 
-             "Material UI"]
+            ["JavaScript", "HTML5", "CSS3", "Bootstrap", "Material UI"]
         },
         databaseTools: {
             ["Microsoft SQL Server", "SQLite", "MySQL", "MongoDB"]
