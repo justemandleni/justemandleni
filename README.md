@@ -1,4 +1,4 @@
-### hi, my name is emandleni
+<!--### hi, my name is emandleni-->
 <!--# emandleni-->
 <!--#### i'm specializing in java, c#, asp.net, apex, dart, sql, pl/sql and javascript.
 #### currently, working as an associate developer at tetrad IT in johannesburg, south africa.-->
