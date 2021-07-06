@@ -8,6 +8,7 @@
 ```javascript
   const about_me = {
     pronouns: "he" | "him",
+    bio: "a sharp object",
     title: "software developer",
     technologies: {
         backend: {
