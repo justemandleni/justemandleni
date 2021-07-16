@@ -6,22 +6,28 @@
 <!--### here's a bit about me...-->
 
 ```javascript
-  const about_me = {
-    pronouns: "he" | "him",
-    bio: "a sharp object",
-    title: "software developer",
+  const aboutMe = {
+    mantra: "a sharp object",
+    designation: "associate developer",
+    education: "bachelor's degree in computer science and information systems",
+    skills: {
+            ["object-oriented programming", "systems integration", "rest/soap APIs", "relational databases", "cloud computing"]
+    },
     technologies: {
         backend: {
-            ["C#", "Java", "Apex", "Dart"]
+            ["C# .NET", "Java", "Apex", "Dart"]
         },
         frontend: {
-            ["JavaScript", "HTML5", "CSS3", "Bootstrap", "Material UI"]
+            ["JavaScript", "JQuery", "HTML5", "CSS3", "Bootstrap", "Material UI", "VisualForce"]
         },
         databaseTools: {
             ["Microsoft SQL Server", "SQLite", "MySQL", "MongoDB"]
         },
         versionControlTools:{
             ["Git", "GitHub", "Github Desktop", "BitBucket", "SourceTree"]
+        },
+        workFlow:{
+          ["Jira", "Trello", "MS Teams"]
         }
     }
   }    
