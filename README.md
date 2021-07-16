@@ -7,7 +7,6 @@
 
 ```javascript
   const aboutMe = {
-    bio: "A sharp object",
     designation: "Associate Developer",
     education: "Bachelor's Degree in Computer Science and Information Systems",
     skills: {
