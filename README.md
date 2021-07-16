@@ -7,11 +7,11 @@
 
 ```javascript
   const aboutMe = {
-    mantra: "a sharp object",
-    designation: "associate developer",
-    education: "bachelor's degree in computer science and information systems",
+    bio: "A sharp object",
+    designation: "Associate Developer",
+    education: "Bachelor's Degree in Computer Science and Information Systems",
     skills: {
-            ["object-oriented programming", "systems integration", "rest/soap APIs", "relational databases", "cloud computing"]
+            ["Object-oriented programming", "Systems integration", "REST/ SOAP APIs", "Relational databases", "Cloud computing"]
     },
     technologies: {
         backend: {
